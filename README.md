@@ -5,11 +5,12 @@ This repository contains a dashboard created for the company Vrinda Stores' annu
 To understand and analyze the sales performance of Vrinda Store's sales data from 2022.
 To provide an annual report to help improve the business in 2023.
 Things I Worked On
+
 **Data Cleaning:**
 
 Imported the CSV file into Excel and performed various activities such as removing duplicates, fixing typo errors, and transforming the data into a format that can be easily analyzed.
 
-Step-by-Step Guide: Data Cleaning Process
+**Step-by-Step Guide: Data Cleaning Process**
 
 Replace 'W' with 'Women' and 'M' with 'Men' in the Gender column:
 
@@ -70,24 +71,29 @@ Created a Pie Chart to determine the percentage share of each distribution chann
 # Insights Drawn
 Based on the analysis of the data, the following insights were drawn:
 
-Women aged between 30-49 years are placing more orders from states like Maharashtra, Karnataka, Tamil Nadu, Uttar Pradesh, and Telangana.
+*Women aged between 30-49 years are placing more orders from states like Maharashtra, Karnataka, Tamil Nadu, Uttar Pradesh, and Telangana.
 Business Decisions
 The following business decisions were made based on the insights:
 
-Target women customers in the age group of 30-49 years living in the states of Maharashtra, Karnataka, and Uttar Pradesh.
+*Target women customers in the age group of 30-49 years living in the states of Maharashtra, Karnataka, and Uttar Pradesh.
 Focus on advertising and offering discounts, coupons, and exclusive deals on platforms like Amazon, Flipkart, and Myntra.
 Provide attractive discounts and exclusive deals to encourage both online and offline purchases.
 
 # Additional Insights
 Here are some additional insights from the sales report:
 
-The month of March had the highest number of sales and orders.
+*The month of March had the highest number of sales and orders.
 Women made more purchases compared to men in 2022.
-The different order statuses in 2022 include Delivered, Refunded, Cancelled, and Returned.
-The top 5 states contributing to sales are Maharashtra, Karnataka, Telangana, Tamil Nadu, and Kerala.
-Women adults above the age of 30 made the highest number of orders.
-The channel contributing the highest sales is Amazon, followed by Flipkart.
-Final Conclusions to Improve Vrinda Store Sales
-To improve Vrinda Store's sales, the following recommendations are provided:
 
-Target women customers in the age group of 30-49 years living in the states of Maharashtra, Karnataka, and Uttar Pradesh by showing ads/offers/coupons available on platforms like Amazon and Flipkart.
+*The different order statuses in 2022 include Delivered, Refunded, Cancelled, and Returned.
+The top 5 states contributing to sales are Maharashtra, Karnataka, Telangana, Tamil Nadu, and Kerala.
+
+*Women adults above the age of 30 made the highest number of orders.
+
+*The channel contributing the highest sales is Amazon, followed by Flipkart.
+
+*Final Conclusions to Improve Vrinda Store Sales
+
+# To improve Vrinda Store's sales, the following recommendations are provided:
+
+**Target women customers in the age group of 30-49 years living in the states of Maharashtra, Karnataka, and Uttar Pradesh by showing ads/offers/coupons available on platforms like Amazon and Flipkart.**
