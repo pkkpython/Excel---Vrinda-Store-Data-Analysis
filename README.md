@@ -66,7 +66,8 @@ Created a Bar chart to show the top 5 states with the highest sales.
 Created a Pie Chart to understand the order status of the customers.
 Created a Column Chart to know the age-wise purchasing pattern between men and women.
 Created a Pie Chart to determine the percentage share of each distribution channel.
-Insights Drawn
+
+# Insights Drawn
 Based on the analysis of the data, the following insights were drawn:
 
 Women aged between 30-49 years are placing more orders from states like Maharashtra, Karnataka, Tamil Nadu, Uttar Pradesh, and Telangana.
@@ -76,7 +77,8 @@ The following business decisions were made based on the insights:
 Target women customers in the age group of 30-49 years living in the states of Maharashtra, Karnataka, and Uttar Pradesh.
 Focus on advertising and offering discounts, coupons, and exclusive deals on platforms like Amazon, Flipkart, and Myntra.
 Provide attractive discounts and exclusive deals to encourage both online and offline purchases.
-Additional Insights
+
+# Additional Insights
 Here are some additional insights from the sales report:
 
 The month of March had the highest number of sales and orders.
